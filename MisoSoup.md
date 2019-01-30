@@ -5,6 +5,7 @@
 
 A simple Miso Soup recipe. It's easier than you think!
 ##Ingredients
+
 > * 3 cups water
 > * 1/4 cup chopped green onion
 > * 1/4 cup firm silk tofu, cut into tiny cubes
@@ -23,7 +24,7 @@ A simple Miso Soup recipe. It's easier than you think!
 
 2. Return soup to a simmer, then add tofu and scallions.
 
-Enjoy!
+Don't forget to eat soup out of a fancy bowl. Enjoy!
 
 
 ----------
